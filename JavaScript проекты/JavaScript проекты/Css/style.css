@@ -1,0 +1,17 @@
+#ed li {
+  background: dimgray;
+  display: block;
+  float: left;
+  width: 14%;
+  border: 1px solid;
+}
+#ed {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+body {
+  background: url("../Изображения/qsAAAgKCBOA-1920.jpg");
+  background-color: black;
+  color: white;
+}
